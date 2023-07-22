@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #a7d7c5; /* Cambiar el color de fondo a verde claro */
+    color: #000; /* Cambiar el color del texto a negro */
     text-align: center;
     padding: 1rem 0;
 }
@@ -28,7 +28,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #000; /* Cambiar el color del enlace a negro */
     text-decoration: none;
 }
 
@@ -51,8 +51,8 @@ main {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #a7d7c5; /* Cambiar el color de fondo del footer a verde claro */
+    color: #000; /* Cambiar el color del texto del footer a negro */
     text-align: center;
     padding: 10px 0;
     position: absolute;
