@@ -8,7 +8,11 @@ body {
 }
 
 header {
+<<<<<<< HEAD
     background-color: #b7d7c5;
+=======
+    background-color: #a7d7c6;
+>>>>>>> dev
     color: #000;
     text-align: center;
     padding: 1rem 0;
@@ -53,7 +57,11 @@ main {
 }
 
 footer {
+<<<<<<< HEAD
     background-color: #b7d7c5;
+=======
+    background-color: #a7d7c6;
+>>>>>>> dev
     color: #000;
     text-align: center;
     padding: 10px 0;
